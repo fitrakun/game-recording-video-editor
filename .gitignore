@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.flac
+*-assets/
+*-frames/
+*.zip
+.DS_Store
+Thumbs.db
