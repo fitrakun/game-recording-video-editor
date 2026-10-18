@@ -1,0 +1,18 @@
+{
+  "source": "gameplay.mp4",
+  "output": "Game - Short v1.mp4",
+  "title": "GAME NAME",
+  "narration_rate": 1.25,
+  "scenes": [
+    {"in": 10, "out": 14, "duration": 4},
+    {"in": 60, "out": 64, "duration": 4},
+    {"in": 120, "out": 124, "duration": 4}
+  ],
+  "speech": [
+    {"start": 0, "text": "Can you spot it?", "wav": "voice/hook.wav"},
+    {"start": 4, "text": "Watch this corner.", "wav": "voice/search.wav"},
+    {"start": 8, "text": "There it is!", "wav": "voice/payoff.wav"}
+  ],
+  "headlines": [{"start": 0, "end": 3, "text": "SPOT IT?", "y": 300, "color": "67EFFF"}],
+  "sfx": [{"start": 8, "kind": "hit"}]
+}
