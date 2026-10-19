@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Recording Video Editor"
+  short_description: "Turn gameplay into narrated vertical highlights"
+  default_prompt: "Use $game-recording-video-editor to edit this recording into a fast vertical short with a clear hook, the best gameplay moments, and complete synchronized captions."
